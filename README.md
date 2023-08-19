@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning in [Universitas Kristen Duta Wacana](https://www.ukdw.ac.id/)
+- 🌱 I’m currently learning in [Universitas Kristen Duta Wacana](https://www.ukdw.ac.id/) and [Bangkit Academy](https://grow.google/intl/id_id/bangkit/?tab=machine-learning) 
 - 👯 I’m looking to collaborate on Program Developing 
 - 🤔 I’m looking for help with Senior Developer
 - 💬 Ask me about basic Proramming
