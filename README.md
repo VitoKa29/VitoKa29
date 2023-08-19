@@ -5,6 +5,6 @@
 - 🤔 I’m looking for help with Senior Developer
 - 💬 Ask me about basic Proramming
 - 📫 How to reach me:
-    *[Instagram](https://www.instagram.com/nathanael_vitok/)
-    *[TikTok](https://www.tiktok.com/@vitokaaa)
+    * [Instagram](https://www.instagram.com/nathanael_vitok/)
+    * [TikTok](https://www.tiktok.com/@vitokaaa)
 - ⚡ Fun fact: I love traveling, badminton, basketball, otomotive, pool
