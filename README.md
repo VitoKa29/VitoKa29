@@ -16,5 +16,6 @@
 </p>
 
 ### Reach me on
+- [LinkedIn](https://www.linkedin.com/in/nathanael-vito-kristianto/)
 - [Instagram](https://www.instagram.com/nathanael_vitok/)
 - [TikTok](https://www.tiktok.com/@vitokaaa)
